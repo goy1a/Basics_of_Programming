@@ -2,6 +2,8 @@ CMakeFiles/untitled.dir/main.c.o: \
   /Users/6oy1a/Documents/Projects/untitled/main.c \
   /Users/6oy1a/Documents/Projects/untitled/lab_1.h \
   /Users/6oy1a/Documents/Projects/untitled/lab_2.h \
+  /Users/6oy1a/Documents/Projects/untitled/lab_3.h \
+  /Users/6oy1a/Documents/Projects/untitled/lab_4.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/sys/cdefs.h \

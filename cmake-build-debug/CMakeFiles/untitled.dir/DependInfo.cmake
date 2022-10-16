@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/6oy1a/Documents/Projects/untitled/lab_1.c" "CMakeFiles/untitled.dir/lab_1.c.o" "gcc" "CMakeFiles/untitled.dir/lab_1.c.o.d"
   "/Users/6oy1a/Documents/Projects/untitled/lab_2.c" "CMakeFiles/untitled.dir/lab_2.c.o" "gcc" "CMakeFiles/untitled.dir/lab_2.c.o.d"
+  "/Users/6oy1a/Documents/Projects/untitled/lab_3.c" "CMakeFiles/untitled.dir/lab_3.c.o" "gcc" "CMakeFiles/untitled.dir/lab_3.c.o.d"
+  "/Users/6oy1a/Documents/Projects/untitled/lab_4.c" "CMakeFiles/untitled.dir/lab_4.c.o" "gcc" "CMakeFiles/untitled.dir/lab_4.c.o.d"
   "/Users/6oy1a/Documents/Projects/untitled/main.c" "CMakeFiles/untitled.dir/main.c.o" "gcc" "CMakeFiles/untitled.dir/main.c.o.d"
   )
 

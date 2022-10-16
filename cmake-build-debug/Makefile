@@ -177,6 +177,54 @@ lab_2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_2.c.s
 .PHONY : lab_2.c.s
 
+lab_3.o: lab_3.c.o
+.PHONY : lab_3.o
+
+# target to build an object file
+lab_3.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_3.c.o
+.PHONY : lab_3.c.o
+
+lab_3.i: lab_3.c.i
+.PHONY : lab_3.i
+
+# target to preprocess a source file
+lab_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_3.c.i
+.PHONY : lab_3.c.i
+
+lab_3.s: lab_3.c.s
+.PHONY : lab_3.s
+
+# target to generate assembly for a file
+lab_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_3.c.s
+.PHONY : lab_3.c.s
+
+lab_4.o: lab_4.c.o
+.PHONY : lab_4.o
+
+# target to build an object file
+lab_4.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_4.c.o
+.PHONY : lab_4.c.o
+
+lab_4.i: lab_4.c.i
+.PHONY : lab_4.i
+
+# target to preprocess a source file
+lab_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_4.c.i
+.PHONY : lab_4.c.i
+
+lab_4.s: lab_4.c.s
+.PHONY : lab_4.s
+
+# target to generate assembly for a file
+lab_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab_4.c.s
+.PHONY : lab_4.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -216,6 +264,12 @@ help:
 	@echo "... lab_2.o"
 	@echo "... lab_2.i"
 	@echo "... lab_2.s"
+	@echo "... lab_3.o"
+	@echo "... lab_3.i"
+	@echo "... lab_3.s"
+	@echo "... lab_4.o"
+	@echo "... lab_4.i"
+	@echo "... lab_4.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
