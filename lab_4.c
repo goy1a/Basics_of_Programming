@@ -9,4 +9,14 @@ long inRange(int left, int right, int number) {
 
 void lab_4() {
     printf("%ld", !!inRange(23, 45, 24));
+    
+    printf("\nInput a num: ");
+    int num2;
+
+    scanf("%d",&num2);
+    if (num2&(1 << 4)){
+        printf(" 1 \n");
+    }else{
+        printf("0 \n");
+    }
 }
